@@ -1,0 +1,25 @@
+navbar-main {
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    box-shadow: rgb(221, 219, 219) 0px 5px 50px;
+}
+
+.navbar-start {
+  margin-left: 5vw;
+  font-size: 35px;
+  font-weight: bold;
+}
+.container {
+    height: 100vh;
+    padding: 10vh;
+    display: grid;
+    grid-template-columns: auto auto auto;
+  }
+  .Subcontainer {
+    height: 35vh;
+    width: 25vw;
+    border: 2px solid black;
+    margin: 20px;
+  }  
