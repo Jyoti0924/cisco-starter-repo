@@ -1,11 +1,11 @@
-import Navbar from "./component/Navbar.jsx";
-import Container from "./component/Container.jsx";
+import Navbar from "./Components/Navbar.jsx";
+import Container from "./Components/Container.jsx";
 import "./App.css"
 function App() {
-  return (<>
-    <Navbar />
-    <Container />
-  </>
-  );
-}
-export default App
+    return (<>
+        <Navbar />
+        <Container />
+      </>
+      );
+    }
+    export default App 
